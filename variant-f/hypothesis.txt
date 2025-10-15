@@ -1,0 +1,4 @@
+Hypothesis: 
+The Floating Exit-Intent Sticky Bar will significantly increase final conversion rate. 
+
+The rationale is that the legacy sales page is long and complex, leading to high exit rates. By injecting a prominent, high-contrast, we capture visitors who have scrolled to the end or are about to leave, offering them one final, easy conversion opportunity.
